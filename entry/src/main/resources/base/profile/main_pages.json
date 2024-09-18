@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/Second",
+    "pages/ToDoList/ToDoListPage",
+    "pages/TargetManagement/TargetManagement",
+    "pages/SimpleVideo/SimpleVideo",
+    "pages/SimpleVideo/SimpleVideoPlay"
+  ]
+}
